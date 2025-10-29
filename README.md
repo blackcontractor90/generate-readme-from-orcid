@@ -1,4 +1,4 @@
-# generate_readme_from_orcid.py — README
+# generate_readme_from_orcid.py 
 
 Overview
 --------
