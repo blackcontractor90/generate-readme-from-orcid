@@ -1,11 +1,5 @@
 # generate_readme_from_orcid.py — README
 
-```text
-Repository: RainfallONNX (or whichever repo contains generate_readme_from_orcid.py)
-Script: generate_readme_from_orcid.py
-Purpose: Fetch public works from an ORCID iD and produce a markdown README listing publications
-```
-
 Overview
 --------
 This repository includes a small Python script, `generate_readme_from_orcid.py`, which queries the ORCID public API for a given ORCID iD and produces a `README.md` (or any output file you choose) containing a markdown table that lists publications with the following columns: Title, Authors, Venue, Year, DOI, Link.
